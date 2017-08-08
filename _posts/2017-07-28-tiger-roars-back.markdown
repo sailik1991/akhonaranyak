@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TIGER ROARS BACK - Exibition at Indian Council for Cultural Relations (ICCR), Kolkata"
+title:  "Exibition at Indian Council for Cultural Relations (ICCR), Kolkata"
 date:   2017-07-28 15:00:00
 categories: Event update
 ---
