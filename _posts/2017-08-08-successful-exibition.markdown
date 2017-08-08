@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Successful Exibition"
+title:  "A Successful Exibition"
 date:   2017-08-08 16:30:00
 categories: Event update
 ---
