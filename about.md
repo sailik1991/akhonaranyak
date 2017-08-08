@@ -4,8 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Amidst poverty and others, India can boost of one thing for sure-it’s natural heritage. And among that, Indian forests with its rich flora and fauna shall head the list. But how many of us care for that? Even in 2007,how many of us care for the majestic tigers, which are on the verge of extinction: their numbers comes down to mere1411 from 50,000 in 1950s. We all know that food chain is important for our eco system. Tiger occupies the highest position in that chain. Still we are not careful enough to maintain that chain. What is the reason for this Tiger crisis in India? In short it is due to rapid loss of habitat and poaching. Let us look back to our heritage; This was exactly what we were thinking when we formed a society called Family For Tiger. By that time we already had a website in that name which is now renamed as www.familyfortigers.com. Now to spread our message and to create awareness we need another organ in our vernacular language. Akhon Aranyak was thus created. Today we have published ninteen issues in three years and two months. Not only that one of our team is working in the villages of Sundarbans under the leadership of Col Shakti Banarji ex WWF chief of Kolkata chapter.
