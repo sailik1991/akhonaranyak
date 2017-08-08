@@ -1,25 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-02-12 13:46:40
-categories: jekyll update
+title:  "TIGER ROARS BACK -- Exibition at Indian Council for Cultural Relations (ICCR), Kolkata"
+date:   2017-07-28 15:00:00
+categories: Event update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Our team is happy to bring you an exhibition to be hosted at the [Indian Council for Cultural Relations (ICCR) building](https://goo.gl/maps/fCyddZgeekE2) in Kolkata from 28th to 30th July 3-8pm.  In this event, we will be hosting pictures clicked by our team of photographers and a few well-reputed wildlife photographers from across the nation.  The main purpose of this event is to make the audience aware of the beautiful wildlife that exists in eastern part of India, that is under the threat of extinction.
 
-Jekyll also offers powerful support for code snippets:
+We would be glad if you can grace us with your presence.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+![IICR Exibition Banner](https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/19989563_1495959250427300_3407609099558096328_n.jpg?oh=de06bc98d16ffcee46efbd49518ffcd6&oe=59F53D6F)
