@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gratitude To Our Readers For Making Our Exibition a Success"
+title:  "Gratitude To Our Readers For Making Our Exhibition a Success"
 date:   2017-08-08 16:30:00
 categories: Event update
 ---
