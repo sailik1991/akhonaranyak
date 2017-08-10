@@ -2,7 +2,7 @@
 layout: post
 title:  "Exhibition at Indian Council for Cultural Relations (ICCR), Kolkata"
 date:   2017-07-28 15:00:00
-categories: Event update
+categories: exhibition
 ---
 
 Our team is happy to bring you an exhibition to be hosted at the [Indian Council for Cultural Relations (ICCR) building](https://goo.gl/maps/fCyddZgeekE2) in Kolkata from 28th to 30th July 3-8pm.  In this event, we will be hosting pictures clicked by our team of photographers and a few well-reputed wildlife photographers from across the nation.  The main purpose of this event is to make the audience aware of the beautiful wildlife that exists in eastern part of India, that is under the threat of extinction.
