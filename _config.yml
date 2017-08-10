@@ -10,3 +10,9 @@ url: "http://travel-agent-dora-62747.netlify.com/" # the base hostname & protoco
 
 # Build settings
 markdown: kramdown
+
+defaults:
+  - scope:
+      path: "/_issues"
+    values:
+      pdf: true
