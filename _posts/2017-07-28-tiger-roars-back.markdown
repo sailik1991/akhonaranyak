@@ -1,5 +1,5 @@
 ---
-layout: exibition
+layout: exhibition
 title:  "Exhibition at Indian Council for Cultural Relations (ICCR), Kolkata"
 date:   2017-07-28 15:00:00
 categories: Event update
