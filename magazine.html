@@ -6,13 +6,10 @@ permalink: /magazines/
 
 <div class="home">
   
-  <ul class="post-list">
-    {% assign image_files = site.static_files | where: "pdf", true %}
-    {% for file in image_files %}
-      {{ file.path }}
-    {% endfor %}
-  </ul>
-
-  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
-
+  <div class="col-md-4 well">
+    <a href="https://www.w3schools.com">
+      <img src="https://scontent.fccu5-1.fna.fbcdn.net/v/t1.0-0/s480x480/19399183_10211219995348193_3433966646171649748_n.jpg?oh=6a907fb223540a6b9d47830dbb75c89a&oe=5A3117FE" class="img-rounded" alt="August 2017 issue">
+      August 2017
+    </a>
+  </div>
 </div>
