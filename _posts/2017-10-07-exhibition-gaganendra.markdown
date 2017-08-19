@@ -27,10 +27,12 @@ Let us know via facebook ([event](https://www.facebook.com/events/14244068342639
    * Digital Image size for Canvas print is *21 inch* by *14 inches* at 150 dpi in JPEG format. Image size must not be less than 2 MB.
 
 
-5. Rename each of your photographs at a time with-
+5. Rename each of your photographs at a time with
+
 ~~~~~~~~
-Serial No_ Full name_ Caption_ Category_ Mobile no.
+Serial No_Full name_Caption_Category_Mobile no.
 ~~~~~~~~
+
 For example `01_Basabjit Ghosh _ Jackpot _ Bird _ 98311xxxxx`. All should be written in English.
 
 6. Please sent us an email at **akhonaranyakexhibition@gmail.com** with the following:
@@ -46,7 +48,6 @@ For example `01_Basabjit Ghosh _ Jackpot _ Bird _ 98311xxxxx`. All should be wri
 10. The photographs will be selected by a panel of Judges. All judges will be appointed by the Organizer. The decision of judges is final which cannot be challenged under any circumstances.
 
 11. Entry Fees for the selected Images
-
    * **INR 550.00** per selected image for Photo Paper print
    * **INR 1000.00** per selected image for Canvas print
 
