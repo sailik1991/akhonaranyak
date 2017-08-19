@@ -17,37 +17,6 @@ Let us know via facebook ([event](https://www.facebook.com/events/14244068342639
 
 #### Submission Closes- 15th September 2017, IST 12:00 midnight <span id="sclose"></span>
 
-<script>
-// Set the date we're counting down to
-var countDownDate = new Date("Sep 15, 2017 23:59:59").getTime();
-
-// Update the count down every 1 second
-var x = setInterval(function() {
-
-  // Get todays date and time
-  var now = new Date().getTime();
-
-  // Find the distance between now an the count down date
-  var distance = countDownDate - now;
-
-  // Time calculations for days, hours, minutes and seconds
-  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
-
-  // Display the result in the element with id="demo"
-  document.getElementById("sclose").innerHTML = days + "d " + hours + "h "
-  + minutes + "m " + seconds + "s ";
-
-  // If the count down is finished, write some text 
-  if (distance < 0) {
-    clearInterval(x);
-    document.getElementById("sclose").innerHTML = "EXPIRED";
-  }
-}, 1000);
-</script>
-
 1. Each photographer can submit maximum **five** photographs.
 
 2. Submission of a downloaded photo is an offence. Mobile clicks will not be accepted.
@@ -95,3 +64,35 @@ Selected showcased Photographs will be delivered to the owner on 10th October 20
 For any query or assistance, participants may contact via WhatsApp no 9830122972, 8100376089 (no calls please).
 
 ![Exhibition Banner](https://raw.githubusercontent.com/sailik1991/akhonaranyak/master/images/WhatsApp%20Image%202017-08-10%20at%2021.22.13.jpeg)
+
+<!-- Code for countdown timer -->
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("Sep 15, 2017 23:59:59").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get todays date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now an the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Display the result in the element with id="demo"
+  document.getElementById("sclose").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+
+  // If the count down is finished, write some text 
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("sclose").innerHTML = "EXPIRED";
+  }
+}, 1000);
+</script>
