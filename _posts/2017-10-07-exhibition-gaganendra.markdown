@@ -15,7 +15,25 @@ Let us know via facebook ([event](https://www.facebook.com/events/14244068342639
 
 #### Submission Open- 15th August 2017, IST 12:00 midnight
 
-#### DEADLINE- 15th September 2017, IST 12:00 midnight
+<span class="sopen"></span>
+<script type="text/javascript">
+	var countdownDate = "2017/08/15 23:59:59 IST";
+  $('.sopen').countdown(countdownDate, function(event) {
+    $(this).html(event.strftime('%w weeks %d days %H:%M:%S'));
+	
+});
+</script>
+
+#### Submission Closes- 15th September 2017, IST 12:00 midnight
+
+<span class="sclose"></span>
+<script type="text/javascript">
+	var countdownDate = "2017/09/15 23:59:59 IST";
+  $('.sclose').countdown(countdownDate, function(event) {
+    $(this).html(event.strftime('%w weeks %d days %H:%M:%S'));
+	
+});
+</script>
 
 1. Each photographer can submit maximum **five** photographs.
 
