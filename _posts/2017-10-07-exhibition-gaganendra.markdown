@@ -32,11 +32,9 @@ Let us know via facebook ([event](https://www.facebook.com/events/14244068342639
 ~~~~~~~~
 Serial No_Full name_Caption_Category_Mobile no.
 ~~~~~~~~
-
 For example `01_Basabjit Ghosh _ Jackpot _ Bird _ 98311xxxxx`. All should be written in English.
 
 6. Please sent us an email at **akhonaranyakexhibition@gmail.com** with the following:
-
    * The photographic entries to the exhibition.
    * Name, Address, E-Mail and Bank details used for depositing the entry fees in a Word File.
    * Self-portrait photo *6 inches* by *4 inches* 300 dpi JPEG format.
