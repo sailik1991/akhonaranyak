@@ -22,16 +22,8 @@ Let us know via facebook ([event](https://www.facebook.com/events/14244068342639
 3. Use of any Border, Watermark, Logo or Signature is strictly prohibited.
 
 4. You can choose either Photo paper print or Canvas print according to your choice.
-
-1. list 1 item 1
-   1. nested list item 1
-   2. nested list item 2
-10. list 1 item 2
-    1. nested list item 1
-
-  + Digital Image size for Photo paper print is *18 inches* by *12 inches* at 300 dpi in JPEG format. Image size must not be less than 2 MB.
-
-  + Digital Image size for Canvas print is *21 inch* by *14 inches* at 150 dpi in JPEG format. Image size must not be less than 2 MB.
+   * Digital Image size for Photo paper print is *18 inches* by *12 inches* at 300 dpi in JPEG format. Image size must not be less than 2 MB.
+   * Digital Image size for Canvas print is *21 inch* by *14 inches* at 150 dpi in JPEG format. Image size must not be less than 2 MB.
 
 5. Rename each of your photographs at a time with-
 
