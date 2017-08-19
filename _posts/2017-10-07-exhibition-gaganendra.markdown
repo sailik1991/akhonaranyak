@@ -11,9 +11,8 @@ Let us know via facebook ([event](https://www.facebook.com/events/14244068342639
 
 ## Terms & Conditions for participaing in the Photo Contest:
 
-#### Submission Open- 15th August 2017, IST 12:00 midnight
-
-#### DEADLINE- 15th September 2017, IST 12:00 midnight
+> Submission Open- 15th August 2017, IST 12:00 midnight
+> DEADLINE- 15th September 2017, IST 12:00 midnight
 
 1. Each photographer can submit maximum **five** photographs.
 
@@ -23,14 +22,9 @@ Let us know via facebook ([event](https://www.facebook.com/events/14244068342639
 
 4. You can choose either Photo paper print or Canvas print according to your choice.
 
-1. A numbered list
-              1. A nested numbered list
-              2. Which is numbered
-          2. Which is numbered
+-- Digital Image size for Photo paper print is *18 inches* by *12 inches* at 300 dpi in JPEG format. Image size must not be less than 2 MB.
 
-.* Digital Image size for Photo paper print is *18 inches* by *12 inches* at 300 dpi in JPEG format. Image size must not be less than 2 MB.
-
-.* Digital Image size for Canvas print is *21 inch* by *14 inches* at 150 dpi in JPEG format. Image size must not be less than 2 MB.
+-- Digital Image size for Canvas print is *21 inch* by *14 inches* at 150 dpi in JPEG format. Image size must not be less than 2 MB.
 
 5. Rename each of your photographs at a time with-
 
