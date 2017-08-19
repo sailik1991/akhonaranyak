@@ -11,6 +11,7 @@ Video summarizing the event by [Calcalling](https://www.youtube.com/watch?v=EHrf
 
 Article in [Sholoana Bangaliana](http://sholoanabangaliana.in/blog/2017/08/02/photography-exhibition-on-international-tiger-day-organized-an-initiative-of-akhon-aranyak/) that backs our initiative to create awareness on International Tiger Day.
 
+<script src="https://raw.githubusercontent.com/mckamey/countdownjs/master/countdown.min.js" type="text/javascript" charset="utf-8"></script>
 <span class="sclose"></span>
 <script>
   var countdownDate = "2017/09/15 23:59:59 IST";
