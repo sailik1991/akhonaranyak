@@ -55,15 +55,12 @@ All should be written in English.
 
 to be deposited *before 25th September, 2017* at
 
-```
+~~~~~~~~
 A/C Name: Family For Tiger Dot Com
-
 A/C No. : 00400100024472
-
 Bank of Baroda (Kalyani Branch )
-
 IFSC Code: BARB0KALNAD
-```
+~~~~~~~~
 
 Selected showcased Photographs will be delivered to the owner on 10th October 2017 at the venue at the end of the exhibition.
 For any query or assistance, participants may contact via WhatsApp no 9830122972, 8100376089 (no calls please).
