@@ -26,11 +26,11 @@ Let us know via facebook ([event](https://www.facebook.com/events/14244068342639
    * Digital Image size for Photo paper print is *18 inches* by *12 inches* at 300 dpi in JPEG format. Image size must not be less than 2 MB.
    * Digital Image size for Canvas print is *21 inch* by *14 inches* at 150 dpi in JPEG format. Image size must not be less than 2 MB.
 
+
 5. Rename each of your photographs at a time with-
 
-```
-Serial No_ Full name_ Caption_ Category_ Mobile no.
-```
+    Serial No_ Full name_ Caption_ Category_ Mobile no.
+
 
 For example `01_Basabjit Ghosh _ Jackpot _ Bird _ 98311xxxxx`
 
@@ -43,15 +43,15 @@ All should be written in English.
    * Self-portrait photo *6 inches* by *4 inches* 300 dpi JPEG format.
    *  A small detail of the image (Photographer’s Name, Caption, Category, Species name, Scientific name, Location) in a different word file. 
 
+
 9. Selected Participants will be informed via E-Mail / FB Messenger box by 20th September 2017
 
 10. The photographs will be selected by a panel of Judges. All judges will be appointed by the Organizer. The decision of judges is final which cannot be challenged under any circumstances.
 
 11. Entry Fees for the selected Images
 
-+ **INR 550.00** per selected image for Photo Paper print
-
-+ **INR 1000.00** per selected image for Canvas print
+   * **INR 550.00** per selected image for Photo Paper print
+   * **INR 1000.00** per selected image for Canvas print
 
 to be deposited *before 25th September, 2017* at
 
