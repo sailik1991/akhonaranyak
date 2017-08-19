@@ -28,12 +28,10 @@ Let us know via facebook ([event](https://www.facebook.com/events/14244068342639
 
 
 5. Rename each of your photographs at a time with-
-
-    Serial No_ Full name_ Caption_ Category_ Mobile no.
-
-For example `01_Basabjit Ghosh _ Jackpot _ Bird _ 98311xxxxx`
-
-All should be written in English.
+~~~~~~~~
+Serial No_ Full name_ Caption_ Category_ Mobile no.
+~~~~~~~~
+For example `01_Basabjit Ghosh _ Jackpot _ Bird _ 98311xxxxx`. All should be written in English.
 
 6. Please sent us an email at **akhonaranyakexhibition@gmail.com** with the following:
 
