@@ -7,7 +7,7 @@ categories: activities
 
 We are happy to annouce a Wildlife Photography Competition and Exhibition to be held at [Gaganedra Art Gallery](https://www.google.co.in/maps/place/Gaganendra+Art+Gallery/@22.5418855,88.3439196,17z/data=!3m1!4b1!4m5!3m4!1s0x3a027715a426eb4d:0x84928d22f7e33d62!8m2!3d22.5418806!4d88.3461083?hl=en) from 7th to 10th of October, 2017.
 
-Let us know via facebook ([event](https://www.facebook.com/events/1424406834263943/permalink/1424406840930609/)) if you are coming.
+![Exhibition Banner](https://raw.githubusercontent.com/sailik1991/akhonaranyak/master/images/WhatsApp%20Image%202017-08-10%20at%2021.22.13.jpeg)
 
 ### Terms & Conditions for participaing in the Photo Contest:
 
@@ -63,7 +63,8 @@ IFSC Code: BARB0KALNAD
 Selected showcased Photographs will be delivered to the owner on 10th October 2017 at the venue at the end of the exhibition.
 For any query or assistance, participants may contact via WhatsApp no 9830122972, 8100376089 (no calls please).
 
-![Exhibition Banner](https://raw.githubusercontent.com/sailik1991/akhonaranyak/master/images/WhatsApp%20Image%202017-08-10%20at%2021.22.13.jpeg)
+
+Let us know via facebook ([event](https://www.facebook.com/events/1424406834263943/permalink/1424406840930609/)) if you are coming.
 
 <!-- Code for countdown timer -->
 <script>
