@@ -13,9 +13,9 @@ Let us know via facebook ([event](https://www.facebook.com/events/14244068342639
 
 ----
 
-#### Submission Open- 15th August 2017, IST 12:00 midnight
+##### Submission Opened on 15th August 2017, IST 12:00 midnight
 
-#### Submission Closes on 15th September 2017, IST 12:00 midnight after <span id="sclose"></span>
+##### Submission Closes on 15th September 2017, IST 12:00 midnight after <span id="sclose"></span>
 
 1. Each photographer can submit maximum **five** photographs.
 
