@@ -9,7 +9,9 @@ We are happy to annouce a Wildlife Photography Competition and Exhibition to be 
 
 Let us know via facebook ([event](https://www.facebook.com/events/1424406834263943/permalink/1424406840930609/)) if you are coming.
 
-## Terms & Conditions for participaing in the Photo Contest:
+### Terms & Conditions for participaing in the Photo Contest:
+
+----
 
 #### Submission Open- 15th August 2017, IST 12:00 midnight
 
