@@ -11,12 +11,35 @@ Video summarizing the event by [Calcalling](https://www.youtube.com/watch?v=EHrf
 
 Article in [Sholoana Bangaliana](http://sholoanabangaliana.in/blog/2017/08/02/photography-exhibition-on-international-tiger-day-organized-an-initiative-of-akhon-aranyak/) that backs our initiative to create awareness on International Tiger Day.
 
-<script src="https://raw.githubusercontent.com/mckamey/countdownjs/master/countdown.min.js" type="text/javascript" charset="utf-8"></script>
-<span class="sclose"></span>
+<p id="demo"></p>
 <script>
-  var countdownDate = "2017/09/15 23:59:59 IST";
-  $('.sclose').countdown(countdownDate, function(event) {
-  $(this).html(event.strftime('%w weeks %d days %H:%M:%S'));
-});
+// Set the date we're counting down to
+var countDownDate = new Date("Sep 5, 2017 23:37:25").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get todays date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now an the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Display the result in the element with id="demo"
+  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+
+  // If the count down is finished, write some text 
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "EXPIRED";
+  }
+}, 1000);
 </script>
 
