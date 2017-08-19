@@ -22,6 +22,7 @@ Let us know via facebook ([event](https://www.facebook.com/events/14244068342639
 3. Use of any Border, Watermark, Logo or Signature is strictly prohibited.
 
 4. You can choose either Photo paper print or Canvas print according to your choice.
+
    * Digital Image size for Photo paper print is *18 inches* by *12 inches* at 300 dpi in JPEG format. Image size must not be less than 2 MB.
    * Digital Image size for Canvas print is *21 inch* by *14 inches* at 150 dpi in JPEG format. Image size must not be less than 2 MB.
 
@@ -37,13 +38,10 @@ All should be written in English.
 
 6. Please sent us an email at **akhonaranyakexhibition@gmail.com** with the following:
 
-  + The photographic entries to the exhibition.
-
-  + Name, Address, E-Mail and Bank details used for depositing the entry fees in a Word File.
-
-  + Self-portrait photo *6 inches* by *4 inches* 300 dpi JPEG format.
-
-  +  A small detail of the image (Photographer’s Name, Caption, Category, Species name, Scientific name, Location) in a different word file. 
+   * The photographic entries to the exhibition.
+   * Name, Address, E-Mail and Bank details used for depositing the entry fees in a Word File.
+   * Self-portrait photo *6 inches* by *4 inches* 300 dpi JPEG format.
+   *  A small detail of the image (Photographer’s Name, Caption, Category, Species name, Scientific name, Location) in a different word file. 
 
 9. Selected Participants will be informed via E-Mail / FB Messenger box by 20th September 2017
 
